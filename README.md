@@ -58,16 +58,16 @@ This project should have a documentation where you can explain all details about
    ├── app - Inside this folder should be all your classes.
    │   ├── cards.js
    │   ├── table.js
-   |   ├── user.js
-   |   └── main.js
+   │   ├── user.js
+   │   └── main.js
    │
    ├── static
    │   ├── css
-   │   |    ├── style.css
-   │   |    └── main.css
-   │   |
+   │   │    ├── style.css
+   │   │    └── main.css
+   │   │
    │   └── images
-   |       └─── cards - inside this folder should be all your cards images
+   │       └─── cards - inside this folder should be all your cards images
    │
    ├── index.html
    └── README.rm
