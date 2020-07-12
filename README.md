@@ -70,5 +70,5 @@ This project should have a documentation where you can explain all details about
    │       └─── cards - inside this folder should be all your cards images
    │
    ├── index.html
-   └── README.rm
+   └── README.md
 ```
