@@ -51,7 +51,7 @@ you should build your own `tools`. This is one of those reasons to this `mini-pr
 This project should have a documentation where you can explain all details about it.
 
 ### Folder Structure
-  Here I've put an example as you can organize your mini-project.
+  Here I've put an example how you can organize your mini-project.
 
   ```bash
    card-poker
