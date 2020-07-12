@@ -1,6 +1,6 @@
 ## Feedback
 ### Language
-All files, comments, functions ...whatever, should be in english [File](https://github.com/jochylazala/card-poker/tree/master/css).
+All `files`, `comments`, `functions` ...whatever, should be in `english` [File](https://github.com/jochylazala/card-poker/tree/master/css).
 
 ### Clean code
 I could see in this project your code isn't organize and also you're 
@@ -23,7 +23,7 @@ repeating the same code so many times for example:
   secondCard.style.left = "80%"
   secondCard.style.top = "20%"
 ```
-3. In this case you can use Javascript to simplify the HTML code [File](https://github.com/jochylazala/card-poker/blob/master/index.html) (If you have some question about it ask me).
+3. In this case you can use `Javascript` to simplify the `HTML` code [File](https://github.com/jochylazala/card-poker/blob/master/index.html) (If you have some question about it ask me).
  ```
     <div class="poker-cards" data-cards="one">
       <img class="front-card" src="cards/bg_c1.gif">
@@ -34,7 +34,7 @@ repeating the same code so many times for example:
       <img class="back-card" src="cards/back.jpg">
     </div>
 ```
-4. The code should be indented. You can see in this example the [CSS code](https://github.com/jochylazala/card-poker/blob/master/css/main.css#L2) should have 2 spaces and also here [Javascript code](https://github.com/jochylazala/card-poker/blob/master/js/index.js#L9).
+4. The code should be indented. You can see in this example the [CSS code](https://github.com/jochylazala/card-poker/blob/master/css/main.css#L2) should `have 2 spaces` and also here [Javascript code](https://github.com/jochylazala/card-poker/blob/master/js/index.js#L9).
 
 You can watch this tutorial about [clean code](https://www.youtube.com/watch?v=WrbDaqKyhP4). 
 
@@ -44,14 +44,14 @@ like `inherit`, `attributes`, `methods`, `instance or object`, `method construct
 this tutorial to have some idea what I'm talking about [PDO](https://www.youtube.com/watch?v=5Ohme4A2Weg&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=24).
 
 ### Don't use Libaries
-`jQuery` is a `JavaScript` library designed to simplify `HTML DOM` tree traversal and manipulation. You shouldn't use any libaries can help you, 
+`jQuery` is a `JavaScript` library designed to simplify `HTML DOM` tree traversal and manipulation. You shouldn't use any `libaries` can help you, 
 you should build your own `tools`. This is one of those reasons to this `mini-project`.
 
 ### Documentation
 This project should have a documentation where you can explain all details about it.
 
 ### Folder Structure
-  Here I've put an example how you can organize your mini-project.
+  Here I've put an example how you can organize your `mini-project`.
 
   ```bash
    card-poker
