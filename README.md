@@ -39,7 +39,7 @@ repeating the same code so many times for example:
 You can watch this tutorial about [clean code](https://www.youtube.com/watch?v=WrbDaqKyhP4). 
 
 ### Object-oriented programming (OOP)
-One of reasons most important thing in this project is use `Object-oriented programming`. You should know some concept about `Object-oriented programming`
+One of the reasons most important thing in this project is use `Object-oriented programming`. You should know some concept about `Object-oriented programming`
 like `inherit`, `attributes`, `methods`, `instance or object`, `method constructor`, `varibles class`, `varibles instance`, `polymorphism`...etc. If you want, you can watch
 this tutorial to have some idea what I'm talking about [PDO](https://www.youtube.com/watch?v=5Ohme4A2Weg&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=24).
 
