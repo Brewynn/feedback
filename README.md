@@ -56,7 +56,7 @@ This project should have a documentation where you can explain all details about
   ```bash
    card-poker
    ├── app - Inside this folder should be all your classes.
-   │   ├── cards.js
+   │   ├── card.js
    │   ├── table.js
    │   ├── user.js
    │   └── main.js
