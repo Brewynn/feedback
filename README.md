@@ -1,5 +1,5 @@
 ## Feedback
-### Lenguague
+### Language
 All files, comments, functions ...whatever, should be in english [File](https://github.com/jochylazala/card-poker/tree/master/css).
 
 ### Clean code
