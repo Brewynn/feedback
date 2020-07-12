@@ -23,7 +23,7 @@ repeating the same code so many times for example:
   secondCard.style.left = "80%"
   secondCard.style.top = "20%"
 ```
-3. In this case you can use Javascript to simplify the HTML code [File](https://github.com/jochylazala/card-poker/blob/master/index.html). If you have some question about it ask me.
+3. In this case you can use Javascript to simplify the HTML code [File](https://github.com/jochylazala/card-poker/blob/master/index.html) (If you have some question about it ask me).
  ```
     <div class="poker-cards" data-cards="one">
       <img class="front-card" src="cards/bg_c1.gif">
