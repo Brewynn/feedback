@@ -34,7 +34,7 @@ repeating the same code so many times for example:
       <img class="back-card" src="cards/back.jpg">
     </div>
 ```
-4. The code should be indented. You can see in this example the [CSS code](https://github.com/jochylazala/card-poker/blob/master/css/main.css#L2) should have 2 spaces and also here [Javascript code](https://github.com/jochylazala/card-poker/blob/master/js/index.js#L9)
+4. The code should be indented. You can see in this example the [CSS code](https://github.com/jochylazala/card-poker/blob/master/css/main.css#L2) should have 2 spaces and also here [Javascript code](https://github.com/jochylazala/card-poker/blob/master/js/index.js#L9).
 
 You can watch this tutorial about [clean code](https://www.youtube.com/watch?v=WrbDaqKyhP4). 
 
