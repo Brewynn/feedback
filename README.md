@@ -1,4 +1,4 @@
-## Feedback
+## Feedback Sunday, July 12, 2020
 ### Language
 All `files`, `comments`, `functions` ...whatever, should be in `english` [File](https://github.com/jochylazala/card-poker/tree/master/css).
 
