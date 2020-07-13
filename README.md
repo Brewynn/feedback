@@ -63,8 +63,8 @@ This project should have a documentation where you can explain all details about
    │
    ├── static
    │   ├── css
-   │   │    ├── style.css
-   │   │    └── main.css
+   │   │   ├── style.css
+   │   │   └── main.css
    │   │
    │   └── images
    │       └─── cards - inside this folder should be all your cards images
